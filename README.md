@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on converting data layers frin EF to EF Core
+- 🔭 I’m currently working on converting data layers from EF to EF Core
 - 🌱 I’m currently learning something new everyday, forever student 😄
 - 👯 I’m looking to collaborate on [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
 
