@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on converting data layers from EF to EF Core
-- 🌱 I’m currently learning something new everyday, forever student 😄
-- 👯 I’m looking to collaborate on [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
+- 🔭 I’m currently working on building event sourcing pipelines with Azure service bus and functional programming concepts.
+- 🌱 I’m currently learning something new everyday 😄
+- 💬 Ask me about [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
