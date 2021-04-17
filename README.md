@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building event sourcing pipelines with Azure service bus and functional programming concepts.
-- 🌱 I’m currently learning something new everyday 😄
+- 🌱 I strive to learn something new everyday 😄
 - 💬 Ask me about [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
+- I recently found [this article](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer) interesting. 🤔 
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
