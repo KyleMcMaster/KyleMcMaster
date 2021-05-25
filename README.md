@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on event sourcing pipelines and functional programming concepts.
+- 🔭 I’m currently working on event sourcing pipelines and functional programming concepts
 - 🌱 I strive to learn something new everyday 😄
 - 💬 Ask me about [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
-- I recently found [this article](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer) interesting. 🤔 
+- I recently found [this article](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer) interesting 🤔 
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
