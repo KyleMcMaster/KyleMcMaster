@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently rewriting my personal site in Nuxt3 and Tailwind CSS 🎉
 - 🌱 I strive to learn something new everyday 😄
-<!-- 📖 Currently Reading: Design Patterns: Elements of Reusable Object-Oriented Software by GoF -->
 - 💬 Ask me about [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
 - I recently found [this article](https://blog.ploeh.dk/2021/08/03/the-tennis-kata-revisited/) interesting
 
