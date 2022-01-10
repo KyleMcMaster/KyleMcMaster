@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: I recently started a position at [NimblePros](https://nimblepros.com/) 
 - 🔭 I’m currently rewriting my personal site in Nuxt3 and Tailwind CSS 🎉
-- 🌱 I strive to learn something new everyday 😄
-- 💬 Ask me about [payroll-processor](https://github.com/KyleMcMaster/payroll-processor)
-- I recently found [this article](https://blog.ploeh.dk/2021/08/03/the-tennis-kata-revisited/) interesting
+- 🌱 I strive to learn something new everyday
+- 👯 I’m looking to collaborate on  [Payroll-Processor](https://github.com/KyleMcMaster/payroll-processor)
+- 📖 I recently found [this article](https://ardalis.com/clean-architecture-asp-net-core/) interesting
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
