@@ -6,9 +6,20 @@
 - 👯 I’m looking to collaborate on  [Payroll-Processor](https://github.com/KyleMcMaster/payroll-processor)
 - 📖 I recently found [this article](https://ardalis.com/clean-architecture-asp-net-core/) interesting
 
-<div>
+<hr />
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
-<div/>
+<p/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyleMcMaster&theme=dark"> 
+  <br />
+  <br />
+  <img src="https://gh-readme.herokuapp.com/graph?username=KyleMcMaster&theme=xcode&area_color=6bffb5&area=true">
+</p>
+
+<br />
+
 <!--
 **KyleMcMaster/KyleMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
