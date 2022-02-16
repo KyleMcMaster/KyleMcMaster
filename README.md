@@ -11,9 +11,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KyleMcMaster&show_icons=true&theme=dark" alt="KyleMcMaster" />
 <p/>
-<p>
-  <img src="https://gh-readme.herokuapp.com/graph?username=KyleMcMaster&theme=xcode&area_color=6bffb5&area=true">
-</p>
+
 
 <br />
 
@@ -34,4 +32,8 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyleMcMaster&theme=dark"> 
   #<br />
+
+<p>
+  <img src="https://gh-readme.herokuapp.com/graph?username=KyleMcMaster&theme=xcode&area_color=6bffb5&area=true">
+</p>
 -->
