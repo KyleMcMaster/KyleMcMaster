@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Fun fact: I recently started a position at [NimblePros](https://nimblepros.com/) 
-- 🔭 I’m currently rewriting my personal [site](https://www.kylemcmaster.com/) in Nuxt3 and Tailwind CSS 🎉
+- 🔭 I’m currently rewriting my personal [blog](https://www.kylemcmaster.com/) in Nuxt3 and Tailwind CSS 🎉
 - 🌱 I strive to learn something new everyday
 - 👯 I’m looking to collaborate on  [Payroll-Processor](https://github.com/KyleMcMaster/payroll-processor)
 - 📖 I recently found [this article](https://ardalis.com/clean-architecture-asp-net-core/) interesting
