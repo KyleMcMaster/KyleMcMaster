@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - ⚡ Fun fact: I recently became a father and am learning a lot about family, parenting, and myself 😊
 - 🔭 I currently write my thoughts at both [my personal blog](https://www.kylemcmaster.com/) and [NimblePros blog](https://blog.nimblepros.com/author/kyle/)
