@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "KYLE-BLOG-POST-LIST"
           feed_list: 'https://www.kylemcmaster.com/rss'
           max_post_count: "3"
 
@@ -26,6 +27,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "NIMBLEPROS-BLOG-POST-LIST"
           feed_list: 'https://blog.nimblepros.com/rss.xml'
           max_post_count: "3"
 
