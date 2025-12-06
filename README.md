@@ -3,7 +3,7 @@
 - ⚡ Fun fact: I recently became a father and am learning a lot about family, parenting, and myself 😊
 - 🔭 I currently write my thoughts at both [my personal blog](https://www.kylemcmaster.com/) and [NimblePros blog](https://blog.nimblepros.com/author/kyle/)
 - 👯 I'm happy to collaborate on my side projects. Feel free to checkout [Payroll-Processor](https://github.com/KyleMcMaster/payroll-processor), [CSharpFunctionalExtensions.FluentAssertions](https://github.com/NitroDevs/CSharpFunctionalExtensions.FluentAssertions), and [FShopOnWeb](https://github.com/NitroDevs/FShopOnWeb)
-- 📝 I recently published [this series on NServiceBus](https://blog.nimblepros.com/blogs/what-is-nservicebus/)
+- 📝 I recently published my digital business card. View it with .NET 10 `dnx -y Kyle McMaster`
 - 🎲 If your team is in need of Training/Mentoring/Assessments, checkout [NimblePros](https://nimblepros.com/)
 
 <hr />
@@ -16,6 +16,11 @@
 #### My top languages 🔨
   <a href="https://github.com/kylemcmaster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylemcmaster&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p/>
+
+#### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### My contributions lately 🟩
 
