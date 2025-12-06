@@ -1,0 +1,31 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Latest content I make workflow
+on:
+  schedule:
+    # Runs every day Monday
+    - cron: '0  0  *  *  mon'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with--kyles-blog:
+    name: Update this repo's README with latest blog posts from my site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://www.kylemcmaster.com/rss'
+          max_post_count: "3"
+
+  
+  update-readme-with--nimblepros-blog:
+    name: Update this repo's README with latest blog posts from the NimblePros' blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://blog.nimblepros.com/rss.xml'
+          max_post_count: "3"
+
