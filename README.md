@@ -20,9 +20,9 @@
 #### Latest NimblePros Blog Posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Aspire MCP Server](https://blog.nimblepros.com/blogs/aspire-mcp-server/)
 - [Sweet Solutions: Architecting a Festive Treats Network](https://blog.nimblepros.com/blogs/sweet-solutions-architecting-a-festive-treats-network/)
 - [How to Lock Down the Nintendo eShop on Switch or Switch 2 for Kids](https://blog.nimblepros.com/blogs/how-to-lock-down-nintendo-eshop-on-switch-or-switch-2-for-kids/)
-- [Aspire CLI](https://blog.nimblepros.com/blogs/aspire-cli/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest Personal Blog Posts
