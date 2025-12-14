@@ -17,7 +17,11 @@
   <a href="https://github.com/kylemcmaster" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylemcmaster&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p/>
 
-#### Latest NimblePros Blog Posts
+#### My contributions lately 🟩
+
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KyleMcMaster&limit=5&theme=dark)
+
+#### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
 - [Aspire MCP Server](https://blog.nimblepros.com/blogs/aspire-mcp-server/)
@@ -25,17 +29,13 @@
 - [How to Lock Down the Nintendo eShop on Switch or Switch 2 for Kids](https://blog.nimblepros.com/blogs/how-to-lock-down-nintendo-eshop-on-switch-or-switch-2-for-kids/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
-#### Latest Personal Blog Posts
+#### Latest personal blog posts
 
 <!-- KYLE-BLOG-POST-LIST:START -->
 - [Building My DIY Solar Power System: A Complete Guide](https://kylemcmaster.com/blog/diy-solar-project)
 - [NServiceBus Zero to Hero Series](https://kylemcmaster.com/blog/nservicebus-series)
 - [2023 Year in Review](https://kylemcmaster.com/blog/2023-year-in-review)
 <!-- KYLE-BLOG-POST-LIST:END -->
-
-#### My contributions lately 🟩
-
-![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KyleMcMaster&limit=5&theme=dark)
 
 <!--
 **KyleMcMaster/KyleMcMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
