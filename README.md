@@ -28,6 +28,9 @@
 #### Latest Personal Blog Posts
 
 <!-- KYLE-BLOG-POST-LIST:START -->
+- [Building My DIY Solar Power System: A Complete Guide](https://kylemcmaster.com/blog/diy-solar-project)
+- [NServiceBus Zero to Hero Series](https://kylemcmaster.com/blog/nservicebus-series)
+- [2023 Year in Review](https://kylemcmaster.com/blog/2023-year-in-review)
 <!-- KYLE-BLOG-POST-LIST:END -->
 
 #### My contributions lately 🟩
