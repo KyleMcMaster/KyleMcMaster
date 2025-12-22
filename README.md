@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
-- [Aspire MCP Server](https://blog.nimblepros.com/blogs/aspire-mcp-server/)
-- [Sweet Solutions: Architecting a Festive Treats Network](https://blog.nimblepros.com/blogs/sweet-solutions-architecting-a-festive-treats-network/)
-- [How to Lock Down the Nintendo eShop on Switch or Switch 2 for Kids](https://blog.nimblepros.com/blogs/how-to-lock-down-nintendo-eshop-on-switch-or-switch-2-for-kids/)
+- [Santa&#39;s AI Chat App - Building a Festive Chat Application with RAG and .NET Templates](https://blog.nimblepros.com/blogs/santas-ai-chat-app/)
+- [Understanding Test Doubles - Fakes, Stubs, Mocks, and Spies](https://blog.nimblepros.com/blogs/understanding-test-doubles/)
+- [Null-Conditional Assignment](https://blog.nimblepros.com/blogs/null-conditional-assignment/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
