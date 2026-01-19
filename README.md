@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Creating Custom Resource Commands In Aspire](https://blog.nimblepros.com/blogs/aspire-custom-commands/)
 - [Using Databases In Aspire](https://blog.nimblepros.com/blogs/aspire-databases/)
 - [Santa&#39;s AI Chat App - Building a Festive Chat Application with RAG and .NET Templates](https://blog.nimblepros.com/blogs/santas-ai-chat-app/)
-- [Understanding Test Doubles - Fakes, Stubs, Mocks, and Spies](https://blog.nimblepros.com/blogs/understanding-test-doubles/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
