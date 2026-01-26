@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Create a GitHub Template Repository for Boilerplate Files and Standards](https://blog.nimblepros.com/blogs/create-github-template-repo-for-boilerplate/)
 - [Creating Custom Resource Commands In Aspire](https://blog.nimblepros.com/blogs/aspire-custom-commands/)
 - [Using Databases In Aspire](https://blog.nimblepros.com/blogs/aspire-databases/)
-- [Santa&#39;s AI Chat App - Building a Festive Chat Application with RAG and .NET Templates](https://blog.nimblepros.com/blogs/santas-ai-chat-app/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
