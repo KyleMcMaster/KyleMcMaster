@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [OTEL - An Introduction To OpenTelemetry](https://blog.nimblepros.com/blogs/otel/)
+- [Microsoft Resiliency Extensions and Polly Part 2 - Telemetry with Polly](https://blog.nimblepros.com/blogs/adding-observability-to-polly/)
 - [Create a GitHub Template Repository for Boilerplate Files and Standards](https://blog.nimblepros.com/blogs/create-github-template-repo-for-boilerplate/)
-- [Creating Custom Resource Commands In Aspire](https://blog.nimblepros.com/blogs/aspire-custom-commands/)
-- [Using Databases In Aspire](https://blog.nimblepros.com/blogs/aspire-databases/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
