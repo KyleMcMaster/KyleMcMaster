@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Why Context Windows Won&#39;t Keep Growing Forever &lpar;and Why That&#39;s Probably Fine&rpar;](https://blog.nimblepros.com/blogs/context-windows-wont-grow-forever/)
+- [Microsoft Resiliency Extensions and Polly Part 3 - Reactive Strategies](https://blog.nimblepros.com/blogs/reactive-polly-strategies/)
 - [OTEL - An Introduction To OpenTelemetry](https://blog.nimblepros.com/blogs/otel/)
-- [Microsoft Resiliency Extensions and Polly Part 2 - Telemetry with Polly](https://blog.nimblepros.com/blogs/adding-observability-to-polly/)
-- [Create a GitHub Template Repository for Boilerplate Files and Standards](https://blog.nimblepros.com/blogs/create-github-template-repo-for-boilerplate/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
