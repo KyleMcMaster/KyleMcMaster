@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Enhancing Telemetry in Aspire](https://blog.nimblepros.com/blogs/aspire-telemetry/)
+- [Microsoft Resiliency Extensions and Polly Part 4 - Proactive Strategies](https://blog.nimblepros.com/blogs/proactive-polly-strategies/)
 - [Why Context Windows Won&#39;t Keep Growing Forever &lpar;and Why That&#39;s Probably Fine&rpar;](https://blog.nimblepros.com/blogs/context-windows-wont-grow-forever/)
-- [Microsoft Resiliency Extensions and Polly Part 3 - Reactive Strategies](https://blog.nimblepros.com/blogs/reactive-polly-strategies/)
-- [OTEL - An Introduction To OpenTelemetry](https://blog.nimblepros.com/blogs/otel/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
