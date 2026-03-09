@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Choosing an AI Model with Self-Hosted AI](https://blog.nimblepros.com/blogs/choosing-an-ai-model-with-self-hosted-ai/)
+- [Using AI To Migrate A Blog From Gatsby To Hugo](https://blog.nimblepros.com/blogs/using-ai-to-migrate-a-blog/)
 - [What is Specification Driven Development &lpar;SDD&rpar;?](https://blog.nimblepros.com/blogs/sdd-overview/)
-- [Enhancing Telemetry in Aspire](https://blog.nimblepros.com/blogs/aspire-telemetry/)
-- [Microsoft Resiliency Extensions and Polly Part 4 - Proactive Strategies](https://blog.nimblepros.com/blogs/proactive-polly-strategies/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
