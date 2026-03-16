@@ -3,7 +3,7 @@
 - ⚡ Fun fact: I recently became a father and am learning a lot about family, parenting, and myself 😊
 - 🔭 I currently write my thoughts at both [my personal blog](https://www.kylemcmaster.com/) and [NimblePros blog](https://blog.nimblepros.com/author/kyle/)
 - 👯 I'm happy to collaborate on my side projects. Feel free to checkout [Payroll-Processor](https://github.com/KyleMcMaster/payroll-processor), [CSharpFunctionalExtensions.FluentAssertions](https://github.com/NitroDevs/CSharpFunctionalExtensions.FluentAssertions), and [FShopOnWeb](https://github.com/NitroDevs/FShopOnWeb)
-- 📝 I recently published my digital business card. View it with .NET 10 `dnx -y Kyle McMaster`
+- 📝 I recently published my digital business card. View it with .NET 10 `dnx -y kmc` or `dnx -y kylemcmaster`
 - 🎲 If your team is in need of Training/Mentoring/Assessments, checkout [NimblePros](https://nimblepros.com/)
 
 <hr />
