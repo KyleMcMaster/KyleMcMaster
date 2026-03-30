@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [HTMX for Modern .NET Development](https://blog.nimblepros.com/blogs/htmx-for-modern-dotnet-development/)
+- [From Feature Flags to A/B Testing - Experiment Driven Development](https://blog.nimblepros.com/blogs/feature-flag-ab-testing/)
 - [Process Modeling EventStorming for Better People Experiences](https://blog.nimblepros.com/blogs/process-modeling-eventstorming/)
-- [Creating Valid Testing Data in .NET](https://blog.nimblepros.com/blogs/creating-test-data/)
-- [Feature Flags - The Secret Weapon for .NET Developers](https://blog.nimblepros.com/blogs/feature-flags-in-dotnet/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
