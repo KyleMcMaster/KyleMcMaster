@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [AI Assisted Code Reviews - Augmenting Pull Requests in .NET Projects](https://blog.nimblepros.com/blogs/ai-assisted-code-reviews/)
 - [Testing AI-Powered Features in .NET - Strategies for Non-Deterministic Code](https://blog.nimblepros.com/blogs/testing-ai-powered-features/)
 - [HTMX for Modern .NET Development](https://blog.nimblepros.com/blogs/htmx-for-modern-dotnet-development/)
-- [From Feature Flags to A/B Testing - Experiment Driven Development](https://blog.nimblepros.com/blogs/feature-flag-ab-testing/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
