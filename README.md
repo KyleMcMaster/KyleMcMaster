@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Advanced Testing Techniques - Property-Based Testing, Contract Testing, and Test Doubles](https://blog.nimblepros.com/blogs/advanced-testing-techniques/)
+- [Next Level AI Coding Agents - Instructions Files](https://blog.nimblepros.com/blogs/next-level-ai-instructions/)
 - [AI Assisted Code Reviews - Augmenting Pull Requests in .NET Projects](https://blog.nimblepros.com/blogs/ai-assisted-code-reviews/)
-- [Testing AI-Powered Features in .NET - Strategies for Non-Deterministic Code](https://blog.nimblepros.com/blogs/testing-ai-powered-features/)
-- [HTMX for Modern .NET Development](https://blog.nimblepros.com/blogs/htmx-for-modern-dotnet-development/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
