@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Next Level AI Coding Agents - MCP Servers](https://blog.nimblepros.com/blogs/next-level-ai-mcp/)
+- [Next Level AI Coding Agents - Skills Files](https://blog.nimblepros.com/blogs/next-level-ai-skills/)
 - [Advanced Testing Techniques - Property-Based Testing, Contract Testing, and Test Doubles](https://blog.nimblepros.com/blogs/advanced-testing-techniques/)
-- [Next Level AI Coding Agents - Instructions Files](https://blog.nimblepros.com/blogs/next-level-ai-instructions/)
-- [AI Assisted Code Reviews - Augmenting Pull Requests in .NET Projects](https://blog.nimblepros.com/blogs/ai-assisted-code-reviews/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
