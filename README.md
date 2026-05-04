@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Domain Events Webinar Recap](https://blog.nimblepros.com/blogs/domain-events-webinar-recap/)
+- [Next Level AI Coding Agents - Agent Driven Workflows](https://blog.nimblepros.com/blogs/next-level-ai-workflows/)
 - [Next Level AI Coding Agents - MCP Servers](https://blog.nimblepros.com/blogs/next-level-ai-mcp/)
-- [Next Level AI Coding Agents - Skills Files](https://blog.nimblepros.com/blogs/next-level-ai-skills/)
-- [Advanced Testing Techniques - Property-Based Testing, Contract Testing, and Test Doubles](https://blog.nimblepros.com/blogs/advanced-testing-techniques/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
