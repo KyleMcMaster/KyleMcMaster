@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Next Level AI Coding Agents - Agent Teams](https://blog.nimblepros.com/blogs/next-level-ai-agent-teams/)
 - [Stir Trek 2026 Recap](https://blog.nimblepros.com/blogs/stir-trek-2026-recap/)
 - [Domain Events Webinar Recap](https://blog.nimblepros.com/blogs/domain-events-webinar-recap/)
-- [Next Level AI Coding Agents - Agent Driven Workflows](https://blog.nimblepros.com/blogs/next-level-ai-workflows/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
