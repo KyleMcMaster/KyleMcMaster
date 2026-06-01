@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Building a Modular Monolith in .NET](https://blog.nimblepros.com/blogs/modular-monolith-dotnet/)
 - [Next Level AI Coding Agents - Agent Teams](https://blog.nimblepros.com/blogs/next-level-ai-agent-teams/)
 - [Stir Trek 2026 Recap](https://blog.nimblepros.com/blogs/stir-trek-2026-recap/)
-- [Domain Events Webinar Recap](https://blog.nimblepros.com/blogs/domain-events-webinar-recap/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
