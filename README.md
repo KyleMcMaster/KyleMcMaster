@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Testcontainers in .NET: The Integration Testing Stack That Works Everywhere](https://blog.nimblepros.com/blogs/testcontainers-integration-testing/)
+- [Practical AI Adoption for Seasoned Developers](https://blog.nimblepros.com/blogs/practical-ai-adoption-for-seasoned-developers/)
 - [Building a Modular Monolith in .NET](https://blog.nimblepros.com/blogs/modular-monolith-dotnet/)
-- [Next Level AI Coding Agents - Agent Teams](https://blog.nimblepros.com/blogs/next-level-ai-agent-teams/)
-- [Stir Trek 2026 Recap](https://blog.nimblepros.com/blogs/stir-trek-2026-recap/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
