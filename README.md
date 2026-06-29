@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Keeping AI Agents In Line With Clean Architecture](https://blog.nimblepros.com/blogs/ai-agents-clean-architecture/)
 - [QA or the Highway 2026 Recap](https://blog.nimblepros.com/blogs/qa-or-the-highway-2026-recap/)
 - [Building a Local RAG Q&amp;A Tool in .NET with LlamaSharp](https://blog.nimblepros.com/blogs/building-rag-dotnet/)
-- [Testcontainers in .NET: The Integration Testing Stack That Works Everywhere](https://blog.nimblepros.com/blogs/testcontainers-integration-testing/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
