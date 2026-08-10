@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [SignalR for Blazor: Real-Time Connections Made Easy](https://blog.nimblepros.com/blogs/signalr-for-blazor/)
 - [Building Your Own MCP Server in .NET](https://blog.nimblepros.com/blogs/mcp-server-dotnet/)
 - [Keeping AI Agents In Line With Clean Architecture](https://blog.nimblepros.com/blogs/ai-agents-clean-architecture/)
-- [QA or the Highway 2026 Recap](https://blog.nimblepros.com/blogs/qa-or-the-highway-2026-recap/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
