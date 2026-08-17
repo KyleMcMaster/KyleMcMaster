@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Building Collaborative Applications with SignalR](https://blog.nimblepros.com/blogs/building-collaborative-applications-with-signalr/)
+- [Understanding SignalR Connections &amp; Hubs](https://blog.nimblepros.com/blogs/understanding-signalr-connections-and-hubs/)
 - [SignalR for Blazor: Real-Time Connections Made Easy](https://blog.nimblepros.com/blogs/signalr-for-blazor/)
-- [Building Your Own MCP Server in .NET](https://blog.nimblepros.com/blogs/mcp-server-dotnet/)
-- [Keeping AI Agents In Line With Clean Architecture](https://blog.nimblepros.com/blogs/ai-agents-clean-architecture/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
