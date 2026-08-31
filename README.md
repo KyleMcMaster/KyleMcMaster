@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [SignalR Best Practices, Patterns, and Anti-Patterns](https://blog.nimblepros.com/blogs/signalr-patterns-and-antipatterns/)
 - [Sending Instant Notifications with SignalR](https://blog.nimblepros.com/blogs/sending-instant-notifications-with-signalr/)
 - [Real-Time Data Updates with SignalR &amp; Blazor](https://blog.nimblepros.com/blogs/real-time-data-updates-with-signalr-and-blazor/)
-- [Building Collaborative Applications with SignalR](https://blog.nimblepros.com/blogs/building-collaborative-applications-with-signalr/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
