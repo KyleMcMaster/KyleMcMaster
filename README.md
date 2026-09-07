@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Aspire Has Changed: A Catch-Up for the 2025 Crowd](https://blog.nimblepros.com/blogs/aspire-revisit/)
 - [SignalR Best Practices, Patterns, and Anti-Patterns](https://blog.nimblepros.com/blogs/signalr-patterns-and-antipatterns/)
 - [Sending Instant Notifications with SignalR](https://blog.nimblepros.com/blogs/sending-instant-notifications-with-signalr/)
-- [Real-Time Data Updates with SignalR &amp; Blazor](https://blog.nimblepros.com/blogs/real-time-data-updates-with-signalr-and-blazor/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
