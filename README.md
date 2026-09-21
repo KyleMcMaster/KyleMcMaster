@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
-- [Aspire Has Changed: A Catch-Up for the 2025 Crowd](https://blog.nimblepros.com/blogs/aspire-revisit/)
-- [SignalR Best Practices, Patterns, and Anti-Patterns](https://blog.nimblepros.com/blogs/signalr-patterns-and-antipatterns/)
-- [Sending Instant Notifications with SignalR](https://blog.nimblepros.com/blogs/sending-instant-notifications-with-signalr/)
+- [Beyond the Prompt, Part 3: Green Code, Lean Compute: Reducing AI&#39;s Carbon Footprint](https://blog.nimblepros.com/blogs/green-code-lean-compute-reducing-ais-carbon-footprint/)
+- [Beyond the Prompt, Part 2: Architecting for Cultural Inclusion and User Autonomy](https://blog.nimblepros.com/blogs/architecting-for-cultural-inclusion-and-user-autonomy/)
+- [Beyond the Prompt, Part 1: Why AI Failure Is a System Architecture Problem](https://blog.nimblepros.com/blogs/why-ai-failure-is-a-system-architecture-problem/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
