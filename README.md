@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Beyond the Prompt, Part 4: Designing the Human Guardrail: UX Patterns for AI Fallbacks and Transparency](https://blog.nimblepros.com/blogs/designing-the-human-guardrail-ux-patterns-for-ai-fallbacks-and-transparency/)
+- [Aspire: From Run to Production](https://blog.nimblepros.com/blogs/aspire-production/)
 - [Beyond the Prompt, Part 3: Green Code, Lean Compute: Reducing AI&#39;s Carbon Footprint](https://blog.nimblepros.com/blogs/green-code-lean-compute-reducing-ais-carbon-footprint/)
-- [Beyond the Prompt, Part 2: Architecting for Cultural Inclusion and User Autonomy](https://blog.nimblepros.com/blogs/architecting-for-cultural-inclusion-and-user-autonomy/)
-- [Beyond the Prompt, Part 1: Why AI Failure Is a System Architecture Problem](https://blog.nimblepros.com/blogs/why-ai-failure-is-a-system-architecture-problem/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
