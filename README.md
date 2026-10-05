@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [The Aspire CLI, Revisited](https://blog.nimblepros.com/blogs/aspire-cli-revisited/)
+- [Beyond the Prompt, Part 5: The Multi-Cloud Responsible AI Cheat Sheet: Azure vs. AWS vs. GCP](https://blog.nimblepros.com/blogs/multi-cloud-responsible-ai-cheat-sheet-azure-vs-aws-vs-gcp/)
 - [Beyond the Prompt, Part 4: Designing the Human Guardrail: UX Patterns for AI Fallbacks and Transparency](https://blog.nimblepros.com/blogs/designing-the-human-guardrail-ux-patterns-for-ai-fallbacks-and-transparency/)
-- [Aspire: From Run to Production](https://blog.nimblepros.com/blogs/aspire-production/)
-- [Beyond the Prompt, Part 3: Green Code, Lean Compute: Reducing AI&#39;s Carbon Footprint](https://blog.nimblepros.com/blogs/green-code-lean-compute-reducing-ais-carbon-footprint/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
