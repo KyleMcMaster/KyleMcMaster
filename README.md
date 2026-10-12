@@ -24,9 +24,9 @@
 #### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Aspire and Your Coding Agent, Revisited](https://blog.nimblepros.com/blogs/aspire-coding-agents-revisited/)
+- [Debugging Aspire Without Opening a Browser](https://blog.nimblepros.com/blogs/aspire-telemetry-cli/)
 - [The Aspire CLI, Revisited](https://blog.nimblepros.com/blogs/aspire-cli-revisited/)
-- [Beyond the Prompt, Part 5: The Multi-Cloud Responsible AI Cheat Sheet: Azure vs. AWS vs. GCP](https://blog.nimblepros.com/blogs/multi-cloud-responsible-ai-cheat-sheet-azure-vs-aws-vs-gcp/)
-- [Beyond the Prompt, Part 4: Designing the Human Guardrail: UX Patterns for AI Fallbacks and Transparency](https://blog.nimblepros.com/blogs/designing-the-human-guardrail-ux-patterns-for-ai-fallbacks-and-transparency/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 #### Latest personal blog posts
