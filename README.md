@@ -29,9 +29,9 @@
 ### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [Saving the Game: System.Text.Json and Union State](https://blog.nimblepros.com/blogs/saving-the-game-system-text-json-and-union-state/)
+- [Closed Hierarchies in C# 15: Every Victory Condition Accounted For](https://blog.nimblepros.com/blogs/closed-hierarchies-in-csharp-15-every-victory-condition-accounted-for/)
 - [Discriminated Unions in C# 15: A Turn Is Exactly One Thing](https://blog.nimblepros.com/blogs/discriminated-unions-in-csharp-15-a-turn-is-exactly-one-thing/)
-- [Rolling Into .NET 11: Modeling a Board Game with C# 15](https://blog.nimblepros.com/blogs/rolling-into-dotnet-11-modeling-a-board-game-with-csharp-15/)
-- [Aspire and Your Coding Agent, Revisited](https://blog.nimblepros.com/blogs/aspire-coding-agents-revisited/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 ### Latest personal blog posts
