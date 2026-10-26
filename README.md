@@ -21,7 +21,11 @@
 
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KyleMcMaster&limit=5&theme=dark)
 
-#### Latest NimblePros blog posts
+### Gamification fun
+
+[![MergeMax](https://mergemax.dev/badge/KyleMcMaster?board=contributions)](https://mergemax.dev/@KyleMcMaster?board=contributions&utm_source=badge)
+
+### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
 - [Discriminated Unions in C# 15: A Turn Is Exactly One Thing](https://blog.nimblepros.com/blogs/discriminated-unions-in-csharp-15-a-turn-is-exactly-one-thing/)
@@ -29,7 +33,7 @@
 - [Aspire and Your Coding Agent, Revisited](https://blog.nimblepros.com/blogs/aspire-coding-agents-revisited/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
-#### Latest personal blog posts
+### Latest personal blog posts
 
 <!-- KYLE-BLOG-POST-LIST:START -->
 - [Building My DIY Solar Power System: A Complete Guide](https://kylemcmaster.com/blog/diy-solar-project)
