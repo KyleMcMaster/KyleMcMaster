@@ -29,9 +29,9 @@
 ### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
-- [Saving the Game: System.Text.Json and Union State](https://blog.nimblepros.com/blogs/saving-the-game-system-text-json-and-union-state/)
-- [Closed Hierarchies in C# 15: Every Victory Condition Accounted For](https://blog.nimblepros.com/blogs/closed-hierarchies-in-csharp-15-every-victory-condition-accounted-for/)
-- [Discriminated Unions in C# 15: A Turn Is Exactly One Thing](https://blog.nimblepros.com/blogs/discriminated-unions-in-csharp-15-a-turn-is-exactly-one-thing/)
+- [Exorcising a Haunted Codebase: Banishing Code Demons with AI Agents](https://blog.nimblepros.com/blogs/exorcising-a-haunted-codebase/)
+- [The Bonus Round: Publishing Tiles &amp; Tokens with Native AOT](https://blog.nimblepros.com/blogs/the-bonus-round-publishing-tiles-and-tokens-with-native-aot/)
+- [EF Core 11: Querying Deeply Nested Game State Without Schema Friction](https://blog.nimblepros.com/blogs/ef-core-11-querying-deeply-nested-game-state/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 ### Latest personal blog posts
