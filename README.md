@@ -29,9 +29,9 @@
 ### Latest NimblePros blog posts
 
 <!-- NIMBLEPROS-BLOG-POST-LIST:START -->
+- [EF Core 11 Part I: Migrations Get Friendlier for Teams](https://blog.nimblepros.com/blogs/ef-core-11-migrations/)
+- [The Rest of C# 15: The Smaller Features Worth Knowing](https://blog.nimblepros.com/blogs/csharp-15-smaller-features/)
 - [Exorcising a Haunted Codebase: Banishing Code Demons with AI Agents](https://blog.nimblepros.com/blogs/exorcising-a-haunted-codebase/)
-- [The Bonus Round: Publishing Tiles &amp; Tokens with Native AOT](https://blog.nimblepros.com/blogs/the-bonus-round-publishing-tiles-and-tokens-with-native-aot/)
-- [EF Core 11: Querying Deeply Nested Game State Without Schema Friction](https://blog.nimblepros.com/blogs/ef-core-11-querying-deeply-nested-game-state/)
 <!-- NIMBLEPROS-BLOG-POST-LIST:END -->
 
 ### Latest personal blog posts
